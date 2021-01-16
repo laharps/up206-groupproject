@@ -22,7 +22,7 @@ Finally, we will create visualizations of the datasets to display any correlatio
 * static graph showing the correlation between government response and COVID cases
 * static graph showing the party of state governor and willingness to take the vaccine
 
-![flowchart](Untitled Diagram (8).jpg)
+![flowchart](https://github.com/laharps/up206-groupproject/blob/main/Group%20Assignments/Untitled%20Diagram%20(8).jpg)
 
 ## Conclusion
 We hope this analysis will reveal how government policy responses to the pandemic may have influenced opinions around the vaccine. Additionally, we hope to see how government response and vaccine willingess correlate with COVID-19 cases and political party. We anticipate seeing a stark divide between red states and blue states with respect to government responses and vaccine willingness. 
