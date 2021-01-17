@@ -14,15 +14,14 @@ The US Census Bureau created the Household Pulse Survey to track the social and 
 The University of Oxford created the Coronavirus Government Response Tracker collects information on government responses to the pandemic and uses 18 indicators (such as school closures and travel restrictions) to classify the level of government response over the course of the pandemic. This dataset is available at the state-level in the US. 
 
 ## Methodology
-First, we will explore the data by spatializing each dataset. For each, we will map different variables at the state-level and look for patterns and areas for further inquiry. Second, we will merge the data by state so we have one working dataset. Then, we will conduct statistical tests to find correlations between variables in each dataset. Finally, we will create visualizations of the datasets to display any correlations. <br>
+First, we will download our data, inspect, and clean our two datasets. Then, we will spatializing explore each dataset. We will map different variables at the state-level and look for patterns and areas for further inquiry. Second, we will merge the data by state, so we have one working dataset. Then, we will conduct statistical tests to find correlations between variables in each dataset. We are especially interested in examining any correlations between governmental COVID-19 policies and COVID-19 vaccination views. However, we will also investigate the relationship between COVID-19 views and potential confounders, such as age, race, income, and education. If appropriate, we will conduct multilevel modeling. Finally, we will create visualizations of the datasets to display any correlations.  <br>
 Visualizations could include: 
 * an interactive dashboard that allows the user to select variables from each dataset and display them on a map
 * static graph showing the correlation between government response and COVID cases
 * static graph showing the party of state governor and willingness to take the vaccine
 
-![flowchart](https://github.com/laharps/up206-groupproject/blob/main/Group%20Assignments/Untitled%20Diagram%20(8).jpg)
+![flowchart](https://github.com/natr46/up206-groupproject/blob/main/Group%20Assignments/Images/206a_assigment1.jpg)
 
 ## Conclusion
-We hope this analysis will reveal how government policy responses to the pandemic may have influenced opinions around the vaccine. Additionally, we hope to see how government response and vaccine willingess correlate with COVID-19 cases and political party. We anticipate seeing a stark divide between red states and blue states with respect to government responses and vaccine willingness. We hope that our findings will help illuminate which elements of governmental action have individual fuel distrust in the government to hold our officials more accountable for their actions in the future.
-
+We hope this analysis will reveal how government policy responses to the pandemic may have influenced opinions around the vaccine. Additionally, we hope to see how government response and vaccine willingess correlate with COVID-19 cases and political party. We anticipate seeing a stark divide between red states and blue states with respect to government responses and vaccine willingness. We hope that our findigns will help illiminate which elements of govermental action have fuel individual distrust in goverment, so that in the future, we are able to hold our officals more accountable for their actions. 
 
