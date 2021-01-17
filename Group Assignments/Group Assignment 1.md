@@ -15,6 +15,7 @@ The University of Oxford created the Coronavirus Government Response Tracker col
 
 ## Methodology
 First, we will download our data, inspect, and clean our two datasets. Then, we will spatializing explore each dataset. We will map different variables at the state-level and look for patterns and areas for further inquiry. Second, we will merge the data by state, so we have one working dataset. Then, we will conduct statistical tests to find correlations between variables in each dataset. We are especially interested in examining any correlations between governmental COVID-19 policies and COVID-19 vaccination views. However, we will also investigate the relationship between COVID-19 views and potential confounders, such as age, race, income, and education. If appropriate, we will conduct multilevel modeling. Finally, we will create visualizations of the datasets to display any correlations.  <br>
+
 Visualizations could include: 
 * an interactive dashboard that allows the user to select variables from each dataset and display them on a map
 * static graph showing the correlation between government response and COVID cases
