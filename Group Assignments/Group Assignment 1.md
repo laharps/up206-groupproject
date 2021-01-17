@@ -23,6 +23,6 @@ Visualizations could include:
 ![flowchart](https://github.com/laharps/up206-groupproject/blob/main/Group%20Assignments/Untitled%20Diagram%20(8).jpg)
 
 ## Conclusion
-We hope this analysis will reveal how government policy responses to the pandemic may have influenced opinions around the vaccine. Additionally, we hope to see how government response and vaccine willingess correlate with COVID-19 cases and political party. We anticipate seeing a stark divide between red states and blue states with respect to government responses and vaccine willingness. 
+We hope this analysis will reveal how government policy responses to the pandemic may have influenced opinions around the vaccine. Additionally, we hope to see how government response and vaccine willingess correlate with COVID-19 cases and political party. We anticipate seeing a stark divide between red states and blue states with respect to government responses and vaccine willingness. We hope that our findings will help illuminate which elements of governmental action have individual fuel distrust in the government to hold our officials more accountable for their actions in the future.
 
 
