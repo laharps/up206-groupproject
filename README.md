@@ -1,7 +1,7 @@
 # up206-groupproject
 
 # MEET THE TEAM
-Nataly Rios: Urbanist and data genius extraordinaire
+Nataly Rios: Urbanist and data genius extraordinaire <br>
 Lauren Harper: Urbanist and data genius extraordinaire
 
 # THE PROJECT
