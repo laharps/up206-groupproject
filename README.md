@@ -2,23 +2,23 @@
 
 ## Hello World! 
 
-Welcome to our GitHub page! We are excited you are here. <br>
-We are two dedicated, data-savvy urbanist, ready to tackle some of <br>
-today's biggest questions. 
+<p> Welcome to our GitHub page! We are excited you are here.
+We are two dedicated, data-savvy urbanist, ready to tackle some of
+today's biggest questions. </p>
 
-For now, we will be exploring how <br>
-the government policy responses to the COVID-19 pandemic affected <br>
-people's willingness to take the vaccine. <br>
+<p> For now, we will be exploring how 
+the government policy responses to the COVID-19 pandemic affected
+people's willingness to take the vaccine. </p>
 
-You can follow along on our project by looking at <br>
-our group assignments folder, where we will be <br>
-posting all of our data, analysis, and results.<br>
+<p> You can follow along on our project by looking at
+our group assignments folder, where we will be
+posting all of our data, analysis, and results.</p>
 
-We REALLY do hope people do take the vaccine, but in the meantime <br> 
-we are hoping to shed some light on the reason's <br>
-contributing to people's distrust so that we can be <br>
-better prepare to tackle this pandemic!! <br>
+<p> We REALLY do hope people do take the vaccine, but in the meantime
+we are hoping to shed some light on the reasons
+contributing to people's distrust so that we can be
+better prepare to tackle this pandemic!! </p>
 
-Stay tune!
+Stay tuned!
 
 Lauren Harper & Nataly Rios
