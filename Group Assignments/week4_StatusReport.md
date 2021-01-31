@@ -3,7 +3,8 @@
 ### by Lauren Harper and Nataly Rios 
 
 <p>We, unfortunately, learned that the data we originally planned to utilized was not available. For this week, we will be describing two new potential ideas for our midterm and final project. We are really excited about our first idea, but we are unsure of the feasibility, so we want to ensure we have a plan in case we determine that we can not do the project after meeting with Yoh this week. </p>
-For more information about our original proposal, please click [here](https://github.com/laharps/up206-groupproject/blob/main/Group%20Assignments/Group%20Assignment%201.md).
+
+For more information about our original proposal, please click [here.](https://github.com/laharps/up206-groupproject/blob/main/Group%20Assignments/Group%20Assignment%201.md)
 
 ## Idea 1 
 ### NYC COVID-19 Vaccination Site Access
