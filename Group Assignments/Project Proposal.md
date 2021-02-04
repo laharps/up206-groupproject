@@ -8,7 +8,7 @@ by Lauren Harper and Nataly Rios
 
 ## Data Sources
 * <b>NYC COVID-19 Vaccination Sites:</b> NYC provides a list of all of their COVID-19 vaccination locations via [this ArcGIS Online webmap.](https://vaccinefinder.nyc.gov/locations)
-* <b>NYC COVID-19 Case Rates:</b> We will download COVID-19 cases per zip code  directly from NYC’s Department of Health Github page. It can be accessed [here.](https://github.com/nychealth/coronavirus-data/blob/master/totals/data-by-modzcta.csv). 
+* <b>NYC COVID-19 Case Rates:</b> We will download COVID-19 cases per zip code  directly from NYC’s Department of Health Github page. It can be accessed [here.](https://github.com/nychealth/coronavirus-data/blob/master/totals/data-by-modzcta.csv)
 * <b> NYC 2015-2019 ACS Census Tract Demographic Data:</b> We will be downloading ACS demographic data about race/ethnicity, age, income, education, and disability status directly from the [census reporter.](https://censusreporter.org/)
 
 ## Methodology
