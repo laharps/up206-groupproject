@@ -9,8 +9,9 @@ Vulnerable communities were hit hardest by COVID-19 and need easy access to vacc
 ## The Data
 ### NYC Vaccine Locations
 New York City provides an interactive Vaccine Finder that displays all current vaccine distribution locations.
-[vacc](https://jupyter.idre.ucla.edu/user/harper.laur@gmail.com/view/UP206A%20Assignments/images/nyc_vacc.png)
 
-[interactive](https://jupyter.idre.ucla.edu/user/harper.laur@gmail.com/view/UP206A%20Assignments/images/vac_loc.html)
+![vacc](https://github.com/laharps/up206-groupproject/blob/main/Final%20Project/images/nyc_vacc.png)
+
+[interactive](https://github.com/laharps/up206-groupproject/blob/main/Final%20Project/images/vac_loc.html)
 
 
