@@ -1,0 +1,172 @@
+{
+    "release": {
+        "id": "acs2019_5yr",
+        "name": "ACS 2019 5-year",
+        "years": "2015-2019"
+    },
+    "tables": {
+        "B18101": {
+            "columns": {
+                "B18101001": {
+                    "indent": 0,
+                    "name": "Total:"
+                },
+                "B18101002": {
+                    "indent": 1,
+                    "name": "Male:"
+                },
+                "B18101003": {
+                    "indent": 2,
+                    "name": "Under 5 years:"
+                },
+                "B18101004": {
+                    "indent": 3,
+                    "name": "With a disability"
+                },
+                "B18101005": {
+                    "indent": 3,
+                    "name": "No disability"
+                },
+                "B18101006": {
+                    "indent": 2,
+                    "name": "5 to 17 years:"
+                },
+                "B18101007": {
+                    "indent": 3,
+                    "name": "With a disability"
+                },
+                "B18101008": {
+                    "indent": 3,
+                    "name": "No disability"
+                },
+                "B18101009": {
+                    "indent": 2,
+                    "name": "18 to 34 years:"
+                },
+                "B18101010": {
+                    "indent": 3,
+                    "name": "With a disability"
+                },
+                "B18101011": {
+                    "indent": 3,
+                    "name": "No disability"
+                },
+                "B18101012": {
+                    "indent": 2,
+                    "name": "35 to 64 years:"
+                },
+                "B18101013": {
+                    "indent": 3,
+                    "name": "With a disability"
+                },
+                "B18101014": {
+                    "indent": 3,
+                    "name": "No disability"
+                },
+                "B18101015": {
+                    "indent": 2,
+                    "name": "65 to 74 years:"
+                },
+                "B18101016": {
+                    "indent": 3,
+                    "name": "With a disability"
+                },
+                "B18101017": {
+                    "indent": 3,
+                    "name": "No disability"
+                },
+                "B18101018": {
+                    "indent": 2,
+                    "name": "75 years and over:"
+                },
+                "B18101019": {
+                    "indent": 3,
+                    "name": "With a disability"
+                },
+                "B18101020": {
+                    "indent": 3,
+                    "name": "No disability"
+                },
+                "B18101021": {
+                    "indent": 1,
+                    "name": "Female:"
+                },
+                "B18101022": {
+                    "indent": 2,
+                    "name": "Under 5 years:"
+                },
+                "B18101023": {
+                    "indent": 3,
+                    "name": "With a disability"
+                },
+                "B18101024": {
+                    "indent": 3,
+                    "name": "No disability"
+                },
+                "B18101025": {
+                    "indent": 2,
+                    "name": "5 to 17 years:"
+                },
+                "B18101026": {
+                    "indent": 3,
+                    "name": "With a disability"
+                },
+                "B18101027": {
+                    "indent": 3,
+                    "name": "No disability"
+                },
+                "B18101028": {
+                    "indent": 2,
+                    "name": "18 to 34 years:"
+                },
+                "B18101029": {
+                    "indent": 3,
+                    "name": "With a disability"
+                },
+                "B18101030": {
+                    "indent": 3,
+                    "name": "No disability"
+                },
+                "B18101031": {
+                    "indent": 2,
+                    "name": "35 to 64 years:"
+                },
+                "B18101032": {
+                    "indent": 3,
+                    "name": "With a disability"
+                },
+                "B18101033": {
+                    "indent": 3,
+                    "name": "No disability"
+                },
+                "B18101034": {
+                    "indent": 2,
+                    "name": "65 to 74 years:"
+                },
+                "B18101035": {
+                    "indent": 3,
+                    "name": "With a disability"
+                },
+                "B18101036": {
+                    "indent": 3,
+                    "name": "No disability"
+                },
+                "B18101037": {
+                    "indent": 2,
+                    "name": "75 years and over:"
+                },
+                "B18101038": {
+                    "indent": 3,
+                    "name": "With a disability"
+                },
+                "B18101039": {
+                    "indent": 3,
+                    "name": "No disability"
+                }
+            },
+            "denominator_column_id": "B18101001",
+            "title": "Sex by Age by Disability Status",
+            "universe": "Civilian Noninstitutionalized Population"
+        }
+    }
+}
