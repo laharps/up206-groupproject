@@ -9,7 +9,7 @@ Vulnerable communities were hit hardest by COVID-19 and need easy access to vacc
 ## The Data
 ### NYC Vaccine Locations
 
-![vacc](https://vaccinefinder.nyc.gov/locations)
+[vacc](https://vaccinefinder.nyc.gov/locations)
 
 [interactive](https://jupyter.idre.ucla.edu/user/harper.laur@gmail.com/view/UP206A%20Assignments/images/vac_loc.html)
 
