@@ -1,3 +1,3 @@
 # Map
 ## Here it is!
-![map](../images/vac_loc.html)
+![map](../images/iso_bad.png)
