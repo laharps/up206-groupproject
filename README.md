@@ -6,7 +6,7 @@
 We are two dedicated, data-savvy urbanists ready to tackle some of
 today's biggest questions. </p>
 
-<p> For now, we will look at walkability accesss to vaccine distriubtion sites in New York City. Access to the vaccine is vital, particularly for older, low-income, and minority communities who have been hit hardest by the pandemic. We'll look at which neighborhoods have walking access to vaccine distribution sites and analyze based on neighborhood demographics. </p>
+<p> Our research project is a spatial analysis of COVID-19 vaccination data in New York City Neighborhoods. We look at how walkable access to a vaccine distribution site, the COVID-19 case rate, race, age, and income affect vaccination rates in a neighbhorhood. This project uses real-time data to dive into disparities in vaccine distribution. </p>
 
 <p> You can follow along on our project by looking at
 our group assignments folder, where we will be
